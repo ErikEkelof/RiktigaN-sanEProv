@@ -1,0 +1,13 @@
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.csprojAssemblyReference.cache
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.AssemblyInfoInputs.cache
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.AssemblyInfo.cs
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.csproj.CoreCompileInputs.cache
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.exe
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.deps.json
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.runtimeconfig.json
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.runtimeconfig.dev.json
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.dll
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\bin\Debug\netcoreapp3.1\NäsanEprov.pdb
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.dll
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.pdb
+C:\Users\erik.ekelof\Documents\Programmering\RiktigaNäsanEProv\NäsanEprov\obj\Debug\netcoreapp3.1\NäsanEprov.genruntimeconfig.cache

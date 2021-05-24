@@ -6,9 +6,12 @@ namespace NäsanEprov
     public class SmallEnemy : Enemy
     {
         public int hp = 1; 
-
-        public override void x (){
-            
+        public SmallEnemy(int x, int y){
+            Random generator = new Random();
+            x = generator.Next(1,10);
+            y = generator.Next(1,10);
         }
+        
+        
     }
 }
