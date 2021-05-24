@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace NäsanEprov
 {
@@ -6,7 +7,8 @@ namespace NäsanEprov
     {
         public int hp = 1; 
 
-
-        
+        public override void x (){
+            
+        }
     }
 }
